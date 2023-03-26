@@ -16,4 +16,4 @@ Usage:
 ```
 python3 quicksort.py <int=array_length>
 ```
-![Screenshot 2023-03-26 at 4 02 21 PM](https://user-images.githubusercontent.com/112342947/227801522-6b9ac9d2-99ab-40e4-8908-4ad388f2c2fe.png)
+![Screenshot 2023-03-26 at 4 15 03 PM](https://user-images.githubusercontent.com/112342947/227802079-5cbfa6af-2967-4e0c-a10f-588e1fbc544b.png)
