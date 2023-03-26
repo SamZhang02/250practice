@@ -19,7 +19,7 @@ def main():
     print(f'Unsorted array: {array}')
     print(f'what does this look like after {iterations} iterations of quicksort, where the pivot is the 0th element?')
     input('Press enter to for the answer...')
-    print(quicksort(array , args.n))
+    print(quicksort(array , iterations))
 
 if __name__ == "__main__":
     main()
