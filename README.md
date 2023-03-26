@@ -3,6 +3,7 @@ Both scripts generate an integer array of a given size n inputted by the user, w
 
 ## mergesort.py
 This script generates a random array of size n and displays how many time the array gets split and merged
+
 Usage:
 ```
 python3 mergesort.py <int=array_length>
@@ -12,6 +13,7 @@ python3 mergesort.py <int=array_length>
 ## quicksort.py 
 This script generates a random array of size n and asks the user what the array looks like after x iterations of quicksort, where x is a random integer between 1 to 10.
 It displays the answer when the user presses enter.
+
 Usage: 
 ```
 python3 quicksort.py <int=array_length>
